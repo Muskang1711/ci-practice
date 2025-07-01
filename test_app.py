@@ -9,5 +9,5 @@ def test_subtract():
 
 
 # test_app.py
-def test_add():
-    assert add(2, 3) == 999  # Wrong on purpose
+# def test_add():
+#     assert add(2, 3) == 999  # Wrong on purpose
