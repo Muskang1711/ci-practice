@@ -6,4 +6,8 @@ def test_data():
 
 def test_subtract():
     assert subtract(5,2) == 3
-    
+
+
+# test_app.py
+def test_add():
+    assert add(2, 3) == 999  # Wrong on purpose
